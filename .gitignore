@@ -1,3 +1,6 @@
+!.gitkeep
+.DS_Store
+
 images/*
 !images/sample.jpeg
-!.gitkeep
+
